@@ -4,6 +4,8 @@ An AI-powered web application that analyzes text for journalistic quality, helpi
 
 ![News Check Screenshot](https://via.placeholder.com/800x400/4f46e5/ffffff?text=News+Check+Demo)
 
+[Try News Check →](https://emaduneme.github.io/journalistic-writing-assistant-/)
+
 ## 🚀 Features
 
 - **📖 Readability Analysis** - Flesch-Kincaid grade level scoring to ensure accessibility
@@ -89,7 +91,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Live Demo
 
-[Try News Check →](https://yourusername.github.io/news-check)
+[Try News Check →](https://emaduneme.github.io/journalistic-writing-assistant-/)
 
 ---
 
